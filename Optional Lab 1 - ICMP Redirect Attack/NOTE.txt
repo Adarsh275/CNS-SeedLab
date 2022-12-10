@@ -1,0 +1,5 @@
+Some the assinment screenshort are missing in the Report file
+
+In Task 1: q2, The packets get redirected, but do not reach the intended destination, Need to show screenshot of cache and traceroute for each attempt of the attack.
+
+In Task 2: Need to show execution of mitm attack using IP and MAC.
