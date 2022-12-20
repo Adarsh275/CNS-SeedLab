@@ -1,0 +1,10 @@
+This lab requires SEED LAB 16 as the docker container setup was not working. 
+
+Provided below the link to Seed lab 16 : 
+
+https://seedsecuritylabs.org/lab_env.html
+
+(OR)
+
+google drive link -- https://drive.google.com/file/d/12l8OO3PXHjUsf9vfjkAf7-I6bsixvMUa/view
+ 
